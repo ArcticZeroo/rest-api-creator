@@ -132,9 +132,3 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-.gitignore
-.idea/
-README.md
-index.js
-lib/
-package.json

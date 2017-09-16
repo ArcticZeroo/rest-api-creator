@@ -1,0 +1,14 @@
+{
+  "name": "rest-api-creator",
+  "version": "1.0.17",
+  "description": "Create rest apis!",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "latest",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.0",
+    "super-promise": "^1.0.2"
+  },
+  "author": "ArcticZeroo",
+  "license": "ISC"
+}

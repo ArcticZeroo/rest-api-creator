@@ -1,6 +1,6 @@
 {
   "name": "rest-api-creator",
-  "version": "1.0.17",
+  "version": "2.0.0",
   "description": "Create rest apis!",
   "main": "index.js",
   "dependencies": {
